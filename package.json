@@ -1,6 +1,6 @@
 { 
-  //"homepage" : "https://taheermattur.github.io/face-recognition-app",
-  "name": "facerecognitionapp",
+  "homepage" : "https://taheermattur.github.io/face-detection-app",
+  "name": "facedetectionapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
