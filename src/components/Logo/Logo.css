@@ -1,0 +1,8 @@
+.Tilt {
+background: url('./brain.jpg') -580px;
+background-size: cover;
+position: relative;
+color: white;
+transform-style: preserve-3d;
+}
+
