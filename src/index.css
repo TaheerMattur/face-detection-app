@@ -3,8 +3,14 @@ body {
   padding: 0;
   /* background: url('scifi.jpg') center center/cover no-repeat fixed; */
   font-family: 'Courier New', Courier, monospace;
+<<<<<<< HEAD
   background: linear-gradient(to right, rgba(0,0,128,1) 1.7%, rgba(100,149,237,1) 99.1% );
   }
+=======
+  width: 100%;
+  height: auto;
+}
+>>>>>>> d6a724aa6e4f569d9b49759d05ffd6e6ed1556ba
 
 button {
   cursor: pointer
