@@ -3,8 +3,8 @@ body {
   padding: 0;
   background: url('scifi.jpg') center center/cover no-repeat fixed;
   font-family: 'Courier New', Courier, monospace;
-  width: 100vh;
-  height: 100vh;
+  width: 100%;
+  height: auto;
 }
 
 button {
