@@ -4,7 +4,7 @@ body {
   background: url('scifi.jpg') center center/cover no-repeat fixed;
   font-family: 'Courier New', Courier, monospace;
   width: 100%;
-  height: auto;
+  height: 100vh;
   }
 
 button {
