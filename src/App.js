@@ -33,7 +33,7 @@ const particlesOptions = {
       random: true,
       anim: {
           enable: true,
-          speed: 8
+          speed: 9
       }
     },
     line_linked: {

@@ -1,12 +1,13 @@
 body {
   margin: 0;
   padding: 0;
-  background: url('scifi.jpg') center center/cover no-repeat fixed;
+  /* background: url('scifi.jpg') center center/cover no-repeat fixed; */
   font-family: 'Courier New', Courier, monospace;
-}
+  background: linear-gradient(to right, rgba(0,0,128,1) 1.7%, rgba(100,149,237,1) 99.1% );
+  }
 
 button {
-  cursor: pointer;
+  cursor: pointer
 }
 
 .particles {
