@@ -3,8 +3,8 @@ body {
   padding: 0;
   background: url('scifi.jpg') center center/cover no-repeat fixed;
   font-family: 'Courier New', Courier, monospace;
-  display: flex;
-  justify-content: center;
+  min-width: 100%;
+  max-width: 100%;
 }
 
 button {
